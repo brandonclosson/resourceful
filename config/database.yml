@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: resourceful_development
+
+test:
+  adapter: postgresql
+  database: resourceful_test
